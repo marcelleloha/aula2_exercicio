@@ -1,2 +1,3 @@
 criando arquivo teste
 # editando no próprio github
+adicionando a stage area
